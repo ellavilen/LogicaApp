@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LogicaApp</string>
+    <string name="et1">T</string>
+    <string name="et2">F</string>
+    <string name="et3">F</string>
+    <string name="et4">F</string>
+    <string name="result">Right answers: </string>
+</resources>
